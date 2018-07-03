@@ -1,1 +1,17 @@
-var recipes = new Object();
+var recipes = new Object({sugar: '1 cup'});
+
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
+
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
+
+}
+
+function deleteFromObjectByKey(object, key) {
+
+}
+
+function destructivelyDeleteFromObjectByKey(object, key) {
+
+}
